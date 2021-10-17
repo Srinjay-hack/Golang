@@ -1,6 +1,7 @@
 package main
 import "fmt"
 var x int =7
+
 func main(){
 	var i int
 	i=42
